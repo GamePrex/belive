@@ -1,6 +1,7 @@
 {
     "name": "gameprex/belive",
     "minimum-stability": "dev",
+    "type": "project",
     "authors": [
         {
             "name": "Oskar Nizioł",
