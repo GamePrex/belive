@@ -1,0 +1,14 @@
+{
+    "name": "gameprex/belive",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Oskar Nizioł",
+            "email": "oskarniziol@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "vlucas/phpdotenv": "^5.4.1"
+    }
+}
